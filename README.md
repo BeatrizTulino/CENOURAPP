@@ -18,7 +18,7 @@ APK DA APLICAÇÃO >> NA PASTA RAIZ DO GIT
 
 #Cap. 7. Rodando um APP no Android
 PRINTS NO CAMINHO: /Prints
-ARQUIVOS: 01.PNG, 02.PNG, 03.PNG
+ARQUIVOS: 01.PNG, 02.PNG, 03.PNG, 04.PNG
 
 #Aula final - Plugins do Cordova / Phonegap
 LOCALIZADA NA PASTA "ATIVIDADES DISSERTATIVAS" ARQUIVO DE NOME "dispositivos móveis aula final_ Beatriz Tulino.docx"
